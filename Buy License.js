@@ -1,0 +1,6 @@
+let Email = prompt("Enter Your Email")
+console.log(Email)
+let password = prompt("Enter Your Password")
+console.log(password)
+let Buy_License = prompt("How long would you like to buy the license for use website?")
+console.log(Buy_License)
